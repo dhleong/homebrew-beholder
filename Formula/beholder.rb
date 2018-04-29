@@ -2,8 +2,8 @@
 class Beholder < Formula
   desc "CLI tool for D&D players"
   homepage "https://github.com/dhleong/beholder"
-  url "https://github.com/dhleong/beholder/archive/0.1.0.tar.gz"
-  sha256 "de61d6b2fec71370e7ffcacccc69fc0724e905967f90cb25c111440c4e7f6fa8"
+  url "https://github.com/dhleong/beholder/archive/0.2.0.tar.gz"
+  sha256 "43a2fe7b49a185ba9af09bebd44ffdf9d72d62e88aaf56c359bb1fda0ad51c7e"
 
   depends_on "go" => :build
   depends_on "dep" => :build
